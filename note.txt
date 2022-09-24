@@ -1,0 +1,3 @@
+- discover section
+
+create services/shazamCore.js on redux folder
