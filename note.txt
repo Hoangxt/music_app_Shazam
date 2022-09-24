@@ -1,3 +1,4 @@
 - discover section
 
-create services/shazamCore.js on redux folder
+- create services/shazamCore.js on redux folder
++ using rapid from shazamCore.js and export to store.js
