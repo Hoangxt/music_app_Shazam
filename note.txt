@@ -1,3 +1,4 @@
+https://rapidapi.com/tipsters/api/shazam-core?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 - discover section
 
 - create services/shazamCore.js on redux folder
