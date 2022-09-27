@@ -10,3 +10,5 @@ https://rapidapi.com/tipsters/api/shazam-core?utm_source=youtube.com%2FJavaScrip
 - Search:
 dispatch -> dispatches an action to the store -> genre
 selector -> stated
+
+Deployment
