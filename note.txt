@@ -3,3 +3,6 @@ https://rapidapi.com/tipsters/api/shazam-core?utm_source=youtube.com%2FJavaScrip
 
 - create services/shazamCore.js on redux folder
 + using rapid from shazamCore.js and export to store.js
+
+- https://geo.ipify.org/docs
++ at_uulTyBvhXQH8tY86Sqik6z6Gsvyc1
