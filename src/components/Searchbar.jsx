@@ -23,7 +23,10 @@ const Searchbar = () => {
       </label>
 
       <div className="flex flex-row justify-start items-center">
-        <FiSearch className="w-5 h-5 ml-4" />
+        <FiSearch
+          className="w-5 h-5 ml-4 cursor-pointer"
+          onClick={handleSubmit}
+        />
         <input
           className=" flex-1 w-full p-4 text-base text-white bg-transparent outline-none border-none placeholder-gray-400"
           type="search"
